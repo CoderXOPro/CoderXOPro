@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoderXOPro
 - 👀 I’m interested in coding (HTML, CSS, JS & Python
 - 🌱 I’m currently learning HTML, CSS, JS, Python & C++
-- 📫 How to reach me: codersopro@gmail.com
+- 📫 How to reach me: coderxopro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm still 15 😂
 
